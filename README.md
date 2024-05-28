@@ -58,7 +58,7 @@ Based on code of:
 
 > [Evidential Deep Learning](https://github.com/aamini/evidential-deep-learning)\
 > Amini, Alexander and Schwarting, Wilko and Soleimany, Ava and Rus, Daniela.\
-> _arXiv:1910.02600.
+> _arXiv:1910.02600_.
 
 > [Methods for comparing uncertainty quantifications for material property predictions](https://github.com/ulissigroup/uncertainty_benchmarking)\
 > Kevin Tran, Willie Neiswanger, Junwoong Yoon, Eric Xing, Zachary W. Ulissi.\
