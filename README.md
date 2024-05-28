@@ -1,18 +1,18 @@
 # density_regression
 
 ## <a name="demo"></a> Quick Demo
-Run [this Google Colab](https://colab.research.google.com/drive/1Su5P_Oj5SbKKC3N0Nc0Vd8rQNVw1l4P_?usp=sharing).
+Run [this Google Colab](https://colab.research.google.com/drive/1p5gK-rOI4XYgg2zTVtbh-5Ky06PGlA09?usp=sharing).
 
 or
 
-notebook in `robust_density_regressor.ipynyb`
+notebook in `density_regression.ipynyb`
 
 or 
 
 python file (full comparision, install prerequisite packages first to import library):
 ```sh
 python demo/run_cubic.py
-python demo/robust_density_regressor.py
+python demo/density_regression.py
 ```
 
 ## <a name="prepare"></a> To prepare:
@@ -34,7 +34,7 @@ bash depth_estimation/download_data.sh
 python <method_file> --exp_idx=<idx>
 ```
 where the parameters are the following:
-- `<method_file>`: file stored the code of method. E.g., `<method_file> = time_series/robust_regression.py`
+- `<method_file>`: file stored the code of method. E.g., `<method_file> = time_series/density_regression.py`
 - `<idx>`: index of experiment. E.g., `<idx> = 1`
 
 ### <a name="Benchmark UCI">Benchmark UCI</a>
