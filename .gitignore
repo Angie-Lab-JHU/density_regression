@@ -1,0 +1,12 @@
+# Compiled python modules.
+*.pyc
+*.pkl
+*.png
+*.pdf
+*.h5
+*.tf
+*.pickle
+*.v2
+# Byte-compiled
+_pycache__/
+.cache/
